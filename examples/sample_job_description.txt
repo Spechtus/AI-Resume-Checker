@@ -1,0 +1,45 @@
+Senior Python Developer - Remote
+
+Company: InnovateTech Solutions
+Location: Remote (US Timezone)
+Salary: $100,000 - $130,000
+
+ABOUT THE ROLE
+We are seeking a talented Senior Python Developer to join our growing engineering team. You will be responsible for designing and implementing scalable backend systems, working with modern cloud technologies, and mentoring junior developers.
+
+RESPONSIBILITIES
+- Design and develop high-performance Python applications and APIs
+- Build and maintain microservices architecture using Docker and Kubernetes
+- Collaborate with product managers and designers in an agile environment
+- Lead code reviews and ensure best practices in software development
+- Mentor junior developers and contribute to team growth
+- Optimize application performance and scalability
+- Implement automated testing and CI/CD processes
+
+REQUIRED QUALIFICATIONS
+- 4+ years of professional Python development experience
+- Strong experience with web frameworks (Django, Flask, or FastAPI)
+- Proficiency in database design and optimization (PostgreSQL, MySQL)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Knowledge of containerization technologies (Docker, Kubernetes)
+- Experience with version control systems (Git)
+- Strong understanding of RESTful API design principles
+- Excellent problem-solving and communication skills
+
+PREFERRED QUALIFICATIONS
+- Experience with JavaScript and modern frontend frameworks (React, Vue.js)
+- Knowledge of message queues (Redis, RabbitMQ, Kafka)
+- Familiarity with monitoring and logging tools
+- Experience with infrastructure as code (Terraform, CloudFormation)
+- Bachelor's degree in Computer Science or related field
+- AWS or other cloud certifications
+
+WHAT WE OFFER
+- Competitive salary and equity package
+- Comprehensive health benefits
+- Flexible work arrangements and remote-first culture
+- Professional development opportunities
+- Annual conference and learning budget
+- Modern development tools and equipment
+
+InnovateTech Solutions is an equal opportunity employer committed to diversity and inclusion.
