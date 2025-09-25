@@ -1,0 +1,44 @@
+John Smith
+Software Engineer
+Email: john.smith@example.com
+Phone: (555) 123-4567
+
+SUMMARY
+Experienced software engineer with 5 years of expertise in Python, JavaScript, and cloud technologies. Passionate about building scalable web applications and working in agile environments.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, Java, SQL
+- Web Technologies: React, Node.js, HTML, CSS
+- Frameworks: Django, Flask, Express.js
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud Platforms: AWS, Docker, Kubernetes
+- Tools: Git, Jenkins, JIRA, Linux
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | 2021 - Present
+- Developed and maintained microservices architecture using Python and Docker
+- Led a team of 3 developers in building a customer management system
+- Improved application performance by 40% through code optimization
+- Implemented CI/CD pipelines using Jenkins and AWS
+
+Software Developer | StartupXYZ | 2019 - 2021
+- Built responsive web applications using React and Node.js
+- Collaborated with cross-functional teams in agile development cycles
+- Developed RESTful APIs and integrated third-party services
+- Participated in code reviews and mentored junior developers
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2015 - 2019
+GPA: 3.7/4.0
+
+PROJECTS
+E-commerce Platform
+- Developed a full-stack e-commerce application using Django and React
+- Implemented payment processing and inventory management features
+- Deployed on AWS with auto-scaling capabilities
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2022)
+- Certified Scrum Master (2020)
